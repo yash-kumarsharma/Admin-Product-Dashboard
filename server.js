@@ -3,7 +3,6 @@ const mongoose = require("mongoose");
 const session = require("express-session");
 const Products = require("./model/products");
 const authRoutes = require("./routes/authRoutes");
-
 require("dotenv").config();
 
 const app = express();
