@@ -103,7 +103,7 @@ Visit: [http://localhost:3000](http://localhost:3000)
 
 Feel free to reach out:
 
-📧 yashkumarsharma1820@example.com  
+📧 yashkumarsharma1820@gmail.com  
 💼 [LinkedIn](https://linkedin.com/in/yash-sharma-877460290)
 
 ---
