@@ -39,6 +39,12 @@ function isAuthenticated(req, res, next) {
   res.redirect("/login");
 }
 
+app.get("/", isAuthenticated, (req, res) => {
+  Products.find()
+    .then((products) => res.render("index", { products }))
+    .catch((err) => res.status(500).send("Error loading products"));
+});
+
 app.get("/products", isAuthenticated, (req, res) => {
   Products.find()
     .then((products) => res.render("index", { products }))
