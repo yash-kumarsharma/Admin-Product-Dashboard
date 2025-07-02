@@ -31,7 +31,33 @@ A secure and responsive admin dashboard for managing product listings with full 
 
 ## 📸 Screenshots
 
-> Add screenshots in this section once available:
+Visual highlights of key features and interface:
+
+<p align="center">
+  <img src="assets/login_page.png" alt="Login Page" width="700"/>
+  <br><strong>🔐 Login Page</strong>
+  <br>
+</p>
+
+<p align="center">
+  <img src="assets/signup_page.png" alt="Signup Page" width="700"/>
+  <br><strong>📝 Signup Page</strong>
+  <br>
+</p>
+
+<p align="center">
+  <img src="assets/admin_dashboard.png" alt="Admin Dashboard" width="700"/>
+  <br><strong>🧑‍💼 Admin Dashboard</strong>
+  <br>
+</p>
+
+<p align="center">
+  <img src="assets/product_listing_page.png" alt="Product Listing" width="700"/>
+  <br><strong>🛍️ Product Listing Page</strong>
+  <br>
+</p>
+
+> 💡 Tip: Want to see it live? Run the project locally and explore each view.
 
 ---
 
@@ -99,12 +125,14 @@ Visit: [http://localhost:3000](http://localhost:3000)
 
 ---
 
-## 📫 Contact
+## 👨‍💻 Made By
 
-Feel free to reach out:
+Built with 💻 and ☕ by:
 
-📧 yashkumarsharma1820@gmail.com  
-💼 [LinkedIn](https://linkedin.com/in/yash-sharma-877460290)
+[![Yash Kumar Sharma](https://img.shields.io/badge/GitHub-Yash%20Kumar%20Sharma-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/yash-kumarsharma)
+[![Prabhnoor Singh](https://img.shields.io/badge/GitHub-Prabhnoor%20Singh-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/SinghPrabhnoor)
+
+> We collaborated on this project as part of a real-world learning sprint to improve our development skills.
 
 ---
 
